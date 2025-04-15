@@ -24,3 +24,14 @@ Chef's Table একটি React ভিত্তিক রেসিপি অ্�
 
 ## 📁 প্রজেক্ট স্ট্রাকচার
 
+## 🧑‍💻 ডেভেলপার
+
+- 👨‍💻 নাম: Md Riyajul Islam Akash  
+- 🌐 [Portfolio](https://mdriyajulislamakash11.github.io/My-Portfolio/)  
+- 🐱 [GitHub](https://github.com/mdriyajulislamakash11)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdriyajulislam/)  
+- 📧 Email: hafejmohammadakash@gmail.com
+
+---
+
+> এই প্রজেক্টটি শিক্ষামূলক উদ্দেশ্যে তৈরি করা হয়েছে। তোমার মতামত ও পরামর্শ খুবই মূল্যবান।
