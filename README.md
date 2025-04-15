@@ -1,12 +1,26 @@
-# React + Vite
+# 🍽️ Chef's Table
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chef's Table একটি React ভিত্তিক রেসিপি অ্যাপ্লিকেশন যেখানে ব্যবহারকারীরা বিভিন্ন রেসিপি দেখতে, প্রয়োজনীয় উপকরণ জানতে এবং পছন্দের রেসিপি কার্টে যুক্ত করতে পারে।
 
-Currently, two official plugins are available:
+## 🚀 লাইভ লিংক
+[Live Demo](https://your-live-site-link.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ ব্যবহৃত টেকনোলজি
 
-## Expanding the ESLint configuration
+- React JS
+- Tailwind CSS
+- Daisy UI
+- React Icons (optional)
+- React Router (optional)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 ফিচারসমূহ
+
+- 🔍 রেসিপি খুঁজে বের করার সুবিধা
+- 🧾 প্রতিটি রেসিপির বিস্তারিত বর্ণনা ও উপকরণ
+- 🛒 Want to Cook লিস্টে রেসিপি যোগ করার সুবিধা
+- 🧮 মোট আইটেম ও মূল্য গণনা
+- ❌ রেসিপি ডিলিট করার সুবিধা
+- 📱 রেস্পন্সিভ ডিজাইন (মোবাইল, ট্যাব ও ডেস্কটপে সুন্দরভাবে চলে)
+
+## 📁 প্রজেক্ট স্ট্রাকচার
+
