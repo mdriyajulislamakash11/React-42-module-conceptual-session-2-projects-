@@ -70,9 +70,8 @@ function App() {
           onDelete={onDelete}
         />
 
-        <div></div>
-      </section>
       <Rooter />
+      </section>
     </>
   );
 }
