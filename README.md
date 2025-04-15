@@ -3,7 +3,7 @@
 Chef's Table একটি React ভিত্তিক রেসিপি অ্যাপ্লিকেশন যেখানে ব্যবহারকারীরা বিভিন্ন রেসিপি দেখতে, প্রয়োজনীয় উপকরণ জানতে এবং পছন্দের রেসিপি কার্টে যুক্ত করতে পারে।
 
 ## 🚀 লাইভ লিংক
-[Live Demo](https://your-live-site-link.com)
+[Live Demo](https://profound-boba-9fb810.netlify.app/)
 
 ## 🛠️ ব্যবহৃত টেকনোলজি
 
