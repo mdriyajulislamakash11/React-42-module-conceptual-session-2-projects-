@@ -2,6 +2,7 @@ import { useState } from "react";
 import Header from "./components/HEader";
 import Hero from "./components/Hero";
 import Toggle from "./components/Toggle";
+import Rooter from "./components/Rooter";
 
 function App() {
   const [isActive, setIsActive] = useState({
@@ -71,6 +72,7 @@ function App() {
 
         <div></div>
       </section>
+      <Rooter />
     </>
   );
 }
