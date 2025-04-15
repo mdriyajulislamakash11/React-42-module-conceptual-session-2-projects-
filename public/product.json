@@ -1,0 +1,205 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spicy Chicken Stir-Fry",
+    "recipe_image": "https://i.ibb.co.com/DVvZMY4/download.jpg",
+    "short_description": "A fiery stir-fry that's quick and easy to make.",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml soy sauce",
+      "200 g basil leaves",
+      "400 g mushrooms",
+      "2 cloves garlic, minced",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "1 onion, sliced"
+    ],
+    "preparing_time": 30,
+    "calories": 320,
+    "price": 450
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Creamy Garlic Shrimp",
+    "recipe_image": "https://i.ibb.co.com/8LGZ1c6f/green-sorrel-soup-with-boiled-quail-egg-sour-cream-white-table-skabenu-zupa-latvian-soup-top-view-11.jpg",
+    "short_description": "Delicious creamy shrimp cooked in garlic butter sauce.",
+    "ingredients": [
+      "500 g shrimp",
+      "3 cloves garlic, minced",
+      "1 cup heavy cream",
+      "2 tbsp butter",
+      "Salt and pepper to taste",
+      "Chopped parsley"
+    ],
+    "preparing_time": 25,
+    "calories": 280,
+    "price": 500
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Classic Margherita Pizza",
+    "recipe_image": "https://i.ibb.co.com/5X0Qvg2L/american-fast-food-hamburgers-french-fries-hot-dogs-fast-food-unhealthy-eating-concept-top-view-1149.jpg",
+    "short_description": "Simple and tasty pizza with tomatoes, basil, and mozzarella.",
+    "ingredients": [
+      "1 pizza dough",
+      "150 g mozzarella cheese",
+      "100 g tomato sauce",
+      "Fresh basil leaves",
+      "2 tbsp olive oil"
+    ],
+    "preparing_time": 40,
+    "calories": 350,
+    "price": 600
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Beef and Broccoli Stir-Fry",
+    "recipe_image": "https://i.ibb.co.com/nM9M5WFy/cheeseburgers-with-fry-potato-wooden-board-114579-33844.jpg",
+    "short_description": "Savory stir-fry with tender beef and fresh broccoli.",
+    "ingredients": [
+      "500 g beef strips",
+      "300 g broccoli florets",
+      "100 ml soy sauce",
+      "1 tbsp sesame oil",
+      "2 cloves garlic",
+      "1 tsp ginger, grated"
+    ],
+    "preparing_time": 35,
+    "calories": 390,
+    "price": 520
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Vegetarian Fried Rice",
+    "recipe_image": "https://i.ibb.co.com/mCXcdHnJ/mixed-pizza-with-various-ingridients.jpg",
+    "short_description": "Colorful and healthy fried rice with mixed vegetables.",
+    "ingredients": [
+      "3 cups cooked rice",
+      "1 cup mixed vegetables",
+      "2 eggs, beaten",
+      "2 tbsp soy sauce",
+      "1 tbsp oil",
+      "Salt and pepper"
+    ],
+    "preparing_time": 20,
+    "calories": 300,
+    "price": 340
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Grilled Lemon Salmon",
+    "recipe_image": "https://i.ibb.co.com/8g04BSCd/grilled-beef-burger-with-fries-cheese-tomato-generative-ai.jpg6",
+    "short_description": "Juicy salmon fillet grilled with lemon and herbs.",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 lemon, sliced",
+      "1 tbsp olive oil",
+      "1 tsp rosemary",
+      "Salt and black pepper"
+    ],
+    "preparing_time": 25,
+    "calories": 330,
+    "price": 480
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "Thai Green Curry",
+    "recipe_image": "https://i.ibb.co.com/NpMxL5M/thai-green-curry.jpg",
+    "short_description": "A flavorful Thai curry with coconut milk and green curry paste.",
+    "ingredients": [
+      "400 g chicken thighs",
+      "200 ml coconut milk",
+      "3 tbsp green curry paste",
+      "1 tbsp fish sauce",
+      "100 g green beans",
+      "Fresh basil leaves"
+    ],
+    "preparing_time": 35,
+    "calories": 360,
+    "price": 480
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "Stuffed Bell Peppers",
+    "recipe_image": "https://i.ibb.co.com/JtMgXYb/stuffed-bell-peppers.jpg",
+    "short_description": "Colorful bell peppers stuffed with seasoned rice and meat.",
+    "ingredients": [
+      "4 bell peppers",
+      "1 cup cooked rice",
+      "250 g ground beef",
+      "1 onion, diced",
+      "100 g tomato sauce",
+      "Salt and spices"
+    ],
+    "preparing_time": 45,
+    "calories": 400,
+    "price": 520
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "Garlic Butter Pasta",
+    "recipe_image": "https://i.ibb.co.com/ZKpRG1x/garlic-butter-pasta.jpg",
+    "short_description": "Creamy garlic butter pasta with herbs and parmesan.",
+    "ingredients": [
+      "250 g spaghetti",
+      "3 tbsp butter",
+      "3 cloves garlic",
+      "50 g parmesan cheese",
+      "Parsley, chopped",
+      "Salt and pepper"
+    ],
+    "preparing_time": 20,
+    "calories": 310,
+    "price": 380
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "BBQ Chicken Wings",
+    "recipe_image": "https://i.ibb.co.com/YR9ZZLd/bbq-chicken-wings.jpg",
+    "short_description": "Crispy wings glazed with homemade BBQ sauce.",
+    "ingredients": [
+      "500 g chicken wings",
+      "1/2 cup BBQ sauce",
+      "1 tbsp honey",
+      "1 tsp chili powder",
+      "Salt and pepper"
+    ],
+    "preparing_time": 30,
+    "calories": 450,
+    "price": 550
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "Veggie Noodle Bowl",
+    "recipe_image": "https://i.ibb.co.com/QJLvFJn/veggie-noodle-bowl.jpg",
+    "short_description": "A healthy noodle bowl packed with fresh vegetables.",
+    "ingredients": [
+      "200 g noodles",
+      "1 cup mixed veggies",
+      "2 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "1 garlic clove",
+      "Spring onions"
+    ],
+    "preparing_time": 20,
+    "calories": 290,
+    "price": 300
+  },
+  {
+    "recipe_id": 12,
+    "recipe_name": "Mango Smoothie Bowl",
+    "recipe_image": "https://i.ibb.co.com/LzX2cwP/mango-smoothie-bowl.jpg",
+    "short_description": "Refreshing smoothie bowl topped with fruits and seeds.",
+    "ingredients": [
+      "1 ripe mango",
+      "1 banana",
+      "1/2 cup yogurt",
+      "Chia seeds",
+      "Granola",
+      "Mixed berries"
+    ],
+    "preparing_time": 10,
+    "calories": 250,
+    "price": 260
+  }
+]
